@@ -1,2 +1,5 @@
 # LLNL-WiDS-Datathon-2022
-Source code for the WiDS 2022 Kaggle Competition
+[Source code](https://github.com/GerardoDiana/LLNL-WiDS-Datathon-2022/blob/main/python_code/predicting_site_eui.ipynb) for the WiDS 2022 Kaggle Competition. Datasets can be downloaded on the Kaggle Competition Page [here](https://www.kaggle.com/c/widsdatathon2022).
+
+## Objective
+The WiDS Datathon 2022 focuses on a prediction task involving roughly 100k observations of building energy usage records collected over 7 years and a number of states within the United States. I gave a [short talk](https://www.youtube.com/watch?v=VJa1OkBB3w0) on methods and results for predicting the Site Energy Usage Intensity, given the characteristics of the building and the weather data for the location of the building. Discussed machine learning featurization and classification methods including: XGBoost, LGBoost, Random Forest, Dimension Reduction.
